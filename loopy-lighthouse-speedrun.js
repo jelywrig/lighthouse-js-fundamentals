@@ -12,8 +12,5 @@ function loopyLighthouse(range, multiples, words){
       console.log(i);
     }
   } 
-
-
-
 }
 
